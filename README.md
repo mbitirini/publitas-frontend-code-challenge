@@ -4,6 +4,10 @@
 
 A simple image slider using a single `<canvas>` element.
 
+## Live Demo
+
+https://publitas-frontend-code-challenge.vercel.app/
+
 ## How to Run
 
 1. Clone the repo.
